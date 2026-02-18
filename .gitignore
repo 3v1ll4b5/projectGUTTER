@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Javascript/Node
+node_modules/
+dist/
+.DS_Store
+
+# Project Specific
+neoscum_transcriber/downloads/
+data/transcriptions/raw/
+music/
+*.mp3
+*.wav
+*.m4a
+*.log
+*.pdf
+
+# Editor
+.vscode/
+.idea/
